@@ -1,0 +1,2 @@
+# FxFun
+Forex for fun.
