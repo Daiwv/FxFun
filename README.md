@@ -17,7 +17,7 @@ Forex for fun.
  
  ## Losses and profits 📈
  
- ### Long position (growth)
+ ### Long position (rise)
  - Lots 0.01 BUY from 11 to 12 on WTI => +10 USD
  - Lots 0.01 BUY from 11 to 10 on WTI => -10 USD
  
